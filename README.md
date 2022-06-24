@@ -21,8 +21,8 @@ Create a new application using the django startapp command. The app should be ca
 
 Add the blog app to the main_projects INSTALLED_APPS.
 
-Link to the blog page: http://127.0.0.1:8000/blog/create/
+Link to the blog page: http://127.0.0.1:8000/admin/blog/post/add/
 
  Screenshot of the solution:
  
- ![crud django](https://user-images.githubusercontent.com/65573250/175497546-c9f35a27-59ba-4475-b02c-b90addb06dcc.png)
+![blog_post](https://user-images.githubusercontent.com/65573250/175499449-e2a363e6-af01-4a30-b278-9721df0b22bf.png)
